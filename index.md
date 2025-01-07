@@ -320,7 +320,7 @@ Post survey survey - CY added this
 
 <h2 id="surveys">Post Workshop Survey</h2>
 
-<a href="[https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop](https://docs.google.com/forms/d/17oVF5XXS4FsYRCj6UIVXdVNyMiOaZnfGHyqiVWzX2sM/edit)">Survey Link</a>.
+<a href="https://docs.google.com/forms/d/17oVF5XXS4FsYRCj6UIVXdVNyMiOaZnfGHyqiVWzX2sM/edit">Survey Link</a>
 
 
 
