@@ -311,9 +311,19 @@ change the value of `carpentry` to `incubator`.
 <p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
 <p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
 {% endif %}
-
 <hr/>
 {% endcomment %}
+
+{% comment %}
+Post survey survey - CY added this
+{% endcomment %}
+
+<h2 id="surveys">Post Workshop Survey</h2>
+
+<a href="[https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop](https://docs.google.com/forms/d/17oVF5XXS4FsYRCj6UIVXdVNyMiOaZnfGHyqiVWzX2sM/edit)">Survey Link</a>.
+
+
+
 
 {% comment %}
 SCHEDULE
